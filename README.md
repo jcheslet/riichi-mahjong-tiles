@@ -1,10 +1,15 @@
-# riichi-mahjong-tiles
-This repository contains vector graphics and PNG exports of riichi mahjong tiles. The tiles are available in the regular and black variants. Below are example screenshots of the tiles.
+# Mahjong tiles schematic for laser cut wood tiles
+
+This repository adds simple schematics to create your own real wooden mahjong game using laser cutting devices, based on the design of https://github.com/FluffyStuff/riichi-mahjong-tiles.
 
 <div style="text-align:center">
 <img src ="https://raw.githubusercontent.com/FluffyStuff/riichi-mahjong-tiles/master/ExampleRegular.png" />
-<img src ="https://raw.githubusercontent.com/FluffyStuff/riichi-mahjong-tiles/master/ExampleBlack.png" />
 </div>
 
+## Storage box
+
+The wooden storage box schematic has been designed from the CardBox model from: https://github.com/florianfesti/boxes.
+
+
 ## License
-All assets are in the [public domain](https://creativecommons.org/publicdomain/zero/1.0/).
+The images are licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
